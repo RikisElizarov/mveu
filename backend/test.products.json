@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Фритюрница",
+  "price": 38199,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTa_invCylgKxdZxDC1vWXdiQqopzMWpo9psVT_os2G74nnangFtGsbGx2iwBQA-uM8V8bLACbZrHCkvvSW6OO5sprbVGELmymshFSz2_s&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Кофемашина",
+  "price": 8199,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSb52Oo3xAex3U_gPhwGVKvlmrdeZxwI7CwRJS40YzBZo7C6LpzCPXzdJSOrtP_2xobgwXt8ulkwK6Cv5pJlj3hSALcrQmHSJBXFGygGAA&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Скороварка",
+  "price": 18900,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpKvOQHpKaPqcLuj6JjE2znt6N2zZ5rpPVSNMvi2l5sYxvHxCHsKaHACw0NxgIGovg8QMTJzG9qxJYyyNMvQn4BhIIfcI6ColNbRb7p0ln&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Умный пылесос",
+  "price": 3200,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSCb3Mj3aLuTFJoffv98mpVCpMmbmpi2DFPTU3dLDbSc9nBqL7mZDIjZc6-NGwBJeLJDNMqU1nzif__XzrfLBv_zoKh-9l7QMsp2-WQAauT7JfnH-Hq5Ci_&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Стиральная машина",
+  "price": 58200,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSggEWhLWb5umtms4oXm8Ck7HrYINRwejke_21tZ8eZYnVv9e1d3sgaZSEwbqTBG13xVKFHzEshzygaWdHXiLJblXuIQSJ6STKVUthO52E1TWh-QPLtdyO4&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Холодильник",
+  "price": 28441,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAh3YQeefjkjihLIq6vU10JAmfL4Ej_Gj1UFFD9HxDNTo6uW-Y1Fc-O7PXVFvvGN55KFT55mDJSfoFqJcynGoJ0OrTUal7kQ6VKujwAWFjGDrSp37yIUAc&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Электрическая духовка",
+  "price": 4240,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyuPFRALUXUNjIGW911r6EgapjxT7YT4b447xJG156EYZqarUac_OuER_UtF706M1YdOcHeU2903myo8PVx8Q-5FqhiF9aYk5Kbn74N-zKMNdzNJUiLN5J&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Рисоварка",
+  "price": 4679,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYBQXU1rLYrt0UPQMP_AQe255o_I2dFy5KmokRPr4NAg17GRJcNRRpcJgepIqEKueQ4FYaF2tJTce_sa4AhcgS93JsAvQ5-yVFiIgrwaCaoA45ndNhZ8pq2g&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Блендер",
+  "price": 14352,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUrg89x5tJauorkgJm-K-U5VpMFxvk5PXT3AtDKpI0sHEjNwPIaLAkF4yrPoHrK8f2N1MyGoiKmjrxlhlEhz3AjQy_usZYdSp7a99JeUDs&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Соковыжималка",
+  "price": 46826,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTrlDzKpiNAQtsMyc6dCyQaMWDjf3TO_F8w7qyedCbw1nFAmI_BDHT8jQ2yyOI3X0Mp5ALFJ6qSJtMzYuDO9SnUzVHEtZZ13QTm_gphwiOIwSXusdANbZ7R&usqp=CAE"
+}]

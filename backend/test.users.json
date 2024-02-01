@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65ba8d0b5a5be953710e03c9"
+  },
+  "login": "reyetyeye",
+  "password": "sgsssssssss",
+  "email": "aaaaaaaa@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb422d9fbf37888a6b1cde"
+  },
+  "login": "dhdlo",
+  "password": "1234567iq",
+  "email": "dfgjddiii@kjhk.com",
+  "__v": 0
+}]
